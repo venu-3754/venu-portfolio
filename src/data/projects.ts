@@ -65,6 +65,19 @@ export const projects: Project[] = [
     },
   },
   {
+    title: 'Anonymous Ecommerce Website',
+    description:
+      'Built an e-commerce website to practice and strengthen web development concepts. The project has features like product listings, navigation bar, search functionality, and responsive design. Focused on improving skills in layout structuring, component design, and state management.',
+    image: '/images/projects/Anon_Ecommerce.png',
+    status: 'FrontEnd Web Development Practice Project',
+    statusColor: 'bg-cyber-green',
+    tags: ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js'],
+    links: {
+      github: 'https://github.com/venu-3754/Ecommerce_Website',
+      demo: 'https://venu-3754.github.io/Ecommerce_Website/',
+    },
+  },
+  {
     title: 'Travel Partner',
     description:
       'A simple Travel Management app built using HTML, CSS, JavaScript, and React. Where customers can see my travel services and our travel prices with plans. Customers can rate and review previous reviews from our testimonials section.',
